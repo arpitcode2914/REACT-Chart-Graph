@@ -15,7 +15,7 @@ function App() {
   return (
     <>
       <div>
-              <h1>hare krishna</h1>
+            
           <div className='user_data_charts'>
               <BarChart/>
               <LineChart/>
