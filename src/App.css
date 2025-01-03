@@ -1,0 +1,128 @@
+/* // bar chart  */
+.user_data_charts{
+    border: 2px solid red;
+    padding: 10px;
+}
+
+.chart_container {
+    border: 1px solid black;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.chart {
+    width: 800px;
+    border: 1px solid black;
+}
+.chart h2{
+    text-align: center;
+}
+
+/* line chart ...................... */
+
+.line_contaner{
+    border: 1px solid black;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.line_data{
+    width: 800px;
+    border: 1px solid black;
+}
+.line_data h2{
+    text-align: center;
+}
+
+
+
+/* pie chart  */
+.pie_contaner{
+    border: 1px solid black;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.pie_data {
+    width: 600px;
+    border: 1px solid black;
+}
+.pie_data h2{
+    text-align: center;
+}
+
+
+/* doughnut  chart  */
+.doughnut_contaner{
+    border: 1px solid black;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.doughnut_data {
+    width: 600px;
+    border: 1px solid black;
+}
+.doughnut_data h2{
+    text-align: center;
+}
+
+
+/* radar  chart  */
+.radar_contaner{
+    border: 1px solid black;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.radar_data {
+    width: 600px;
+    border: 1px solid black;
+}
+.radar_data h2{
+    text-align: center;
+}
+
+/* polar  chart  */
+.polar_contaner{
+    border: 1px solid black;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.polar_data {
+    width: 600px;
+    border: 1px solid black;
+}
+.polar_data h2{
+    text-align: center;
+}
+
+
+/* bubble  chart  */
+.bubble_contaner{
+    border: 1px solid black;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.bubble_data {
+    width: 600px;
+    border: 1px solid black;
+}
+.bubble_data h2{
+    text-align: center;
+}
